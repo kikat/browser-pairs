@@ -85,7 +85,7 @@ body {
 .card {
   -webkit-perspective: 300px;
   -moz-perspective: 300px;
-  width: 56px;
+  width: 150px;
   height: 88px;
   position: absolute;
   -moz-transition: all .3s ease;
